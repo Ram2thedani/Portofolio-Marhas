@@ -11,7 +11,7 @@
     role: "Teacher",
     tagline: "Lorem ipsum dolor sit amet",
     cvUrl: "https://docs.google.com/document/d/1Y417Zi8n1-5svjZrlWCednHtORHXpubWvPQ9wkwBPk8/edit?usp=drive_link",                   // Changed from 'cvurl' to 'cvUrl'
-    photo: "/Eraser_cat.webp",        
+    photo: "/DSCF0081.JPG",        
     stats: [
       {
         value: "3+", label: "Years of experience"
